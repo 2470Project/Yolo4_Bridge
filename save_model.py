@@ -1,3 +1,8 @@
+'''
+authored by hunglc007/tensorflow-yolov4-tflite
+https://github.com/hunglc007/tensorflow-yolov4-tflite
+'''
+
 import tensorflow as tf
 from absl import app, flags, logging
 from absl.flags import FLAGS
