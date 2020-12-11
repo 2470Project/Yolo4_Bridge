@@ -1,5 +1,10 @@
 #!/bin/bash
 
+
+# authored by hunglc007/tensorflow-yolov4-tflite
+# https://github.com/hunglc007/tensorflow-yolov4-tflite
+
+
 ### Recommended to run 'nohup ./<this_script> &' to prevent interruption from SSH session termination.
 
 wait_to_finish() {

@@ -1,3 +1,8 @@
+'''
+originally authored by hunglc007/tensorflow-yolov4-tflite
+https://github.com/hunglc007/tensorflow-yolov4-tflite
+'''
+
 import time
 import tensorflow as tf
 physical_devices = tf.config.experimental.list_physical_devices('GPU')
